@@ -1,0 +1,11 @@
+.list {
+    display: flex; 
+    flex-wrap: wrap;
+    color: red; 
+    justify-content: space-evenly;
+}
+
+.shop {
+    border: 5px solid purple; 
+    padding: 10px; 
+}
